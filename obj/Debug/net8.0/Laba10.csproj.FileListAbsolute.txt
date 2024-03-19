@@ -1,0 +1,11 @@
+C:\Users\Prost\source\repos\Laba10\Laba10\bin\Debug\net8.0\Laba10.deps.json
+C:\Users\Prost\source\repos\Laba10\Laba10\bin\Debug\net8.0\Laba10.dll
+C:\Users\Prost\source\repos\Laba10\Laba10\bin\Debug\net8.0\Laba10.pdb
+C:\Users\Prost\source\repos\Laba10\Laba10\obj\Debug\net8.0\Laba10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prost\source\repos\Laba10\Laba10\obj\Debug\net8.0\Laba10.AssemblyInfoInputs.cache
+C:\Users\Prost\source\repos\Laba10\Laba10\obj\Debug\net8.0\Laba10.AssemblyInfo.cs
+C:\Users\Prost\source\repos\Laba10\Laba10\obj\Debug\net8.0\Laba10.csproj.CoreCompileInputs.cache
+C:\Users\Prost\source\repos\Laba10\Laba10\obj\Debug\net8.0\Laba10.dll
+C:\Users\Prost\source\repos\Laba10\Laba10\obj\Debug\net8.0\refint\Laba10.dll
+C:\Users\Prost\source\repos\Laba10\Laba10\obj\Debug\net8.0\Laba10.pdb
+C:\Users\Prost\source\repos\Laba10\Laba10\obj\Debug\net8.0\ref\Laba10.dll
